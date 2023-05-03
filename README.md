@@ -21,8 +21,8 @@
 
 
 
-
 ---
+
 <div></div>
 
 
@@ -51,7 +51,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=dawoud007&theme=transparent&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&mode=weekly&card_width=350&ring=E11EEB&fire=FFA721&stroke=0ED3EB&currStreakNum=0ED3EB&sideNums=0ED3EB&sideLabels=FFA721&dates=EB545400&currStreakLabel=0ED3EB" />
 
 </p>
----
+
 
 <p align="center">
 <picture>
@@ -60,7 +60,7 @@
   <img alt="github-snake" src="colorful4.svg" />
 </picture>
 </p>
----
+
 <p align="center">
 <a href="https://github.com/dawoud007"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Mohammed Dawoud-orange"></a>
 </p>
