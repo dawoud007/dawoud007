@@ -39,7 +39,7 @@ Turning imagination into reality 🚀</br>
 ---
 
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Harby&layout=compact&theme=transparent&hide_border=true&border_radius=0&card_width=35&text_color=0ED3EB&title_color=0ED3EB" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoud007&layout=compact&theme=transparent&hide_border=true&border_radius=0&card_width=35&text_color=0ED3EB&title_color=0ED3EB" />
  
  <img src="https://github-readme-streak-stats.herokuapp.com?user=dawoud007&theme=transparent&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&mode=weekly&card_width=350&ring=E11EEB&fire=FFA721&stroke=0ED3EB&currStreakNum=0ED3EB&sideNums=0ED3EB&sideLabels=FFA721&dates=EB545400&currStreakLabel=0ED3EB" />
 
