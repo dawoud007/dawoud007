@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
 
 <p align="center">
@@ -55,14 +53,7 @@ Turning imagination into reality 🚀</br> </p>
 </p>
 
 
-</p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dawoud007/dawoud007/blob/output/colorful4.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dawoud007/dawoud007/blob/output/colorful4.svg" />
-  <img alt="github-snake" src="colorful4.svg" />
-</picture>
-</p>
+
 
 <p align="center">
 <a href="https://github.com/dawoud007"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Mohammed Dawoud-orange"></a>
