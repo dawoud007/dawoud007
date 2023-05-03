@@ -20,7 +20,7 @@ Turning imagination into reality 🚀</br>
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+<h3 align="center">### :hammer_and_wrench: Languages and Tools :</h3>
 <div align="center">
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="45" height="45"/>
