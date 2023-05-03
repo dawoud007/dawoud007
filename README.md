@@ -49,8 +49,8 @@ Turning imagination into reality 🚀</br> </p>
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/colorful4.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohamed-Harby/Mohamed-Harby/blob/output/colorful4.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dawoud007/dawoud007/blob/output/colorful4.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dawoud007/dawoud007/blob/output/colorful4.svg" />
   <img alt="github-snake" src="colorful4.svg" />
 </picture>
 </p>
