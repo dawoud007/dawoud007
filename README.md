@@ -1,4 +1,4 @@
-<h1>Hi 👋🏻, I'm Dawoud</br> 
+<h1 align="center">Hi 👋🏻, I'm Dawoud</br> 
 </h1>
 
 🔭 I'm a Computer Engineering student.</br> 
@@ -7,7 +7,7 @@
 I love creating new things ⚡</br> 
 Turning imagination into reality 🚀</br> 
 
-<a href="https://mhmadreda.github.io/eng-dawoud/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a align="center" href="https://mhmadreda.github.io/eng-dawoud/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/mohamed-dawoud-ba04701b9/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> 
 
 
