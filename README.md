@@ -6,7 +6,11 @@
 
 
 
+<h3 align="center"><img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="90" loop>I'm Mohamed Harby 🌟</h3>
 
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=1700&color=E11EEB&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=120&lines=Senior+Student%F0%9F%8E%93;Competitive+Programmer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Java+Developer%F0%9F%91%BE;React+Developer%F0%9F%9A%80" alt="Typing SVG" /></a>
+</div>
 <p align="center">
 🔭 I'm a Computer Engineering student.</br> 
 🌱 I spend most of my time  coding .</br> 
@@ -23,7 +27,7 @@ Turning imagination into reality 🚀</br> </p>
 
 
 
-
+<div></div>
 
 <div align="center">### :hammer_and_wrench: Languages and Tools :</div>
 <div align="center">
