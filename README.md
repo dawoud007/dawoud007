@@ -46,6 +46,10 @@ Turning imagination into reality 🚀</br> </p>
 </p>
 
 
+<p align="center">
+<a href="https://github.com/dawoud007"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-dawoud007-orange"></a>
+</p>
+
 
 </p>
 <p align="center">
@@ -55,7 +59,3 @@ Turning imagination into reality 🚀</br> </p>
   <img alt="github-snake" src="colorful4.svg" />
 </picture>
 </p>
-<p align="center">
-<a href="https://github.com/dawoud007"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-dawoud007-orange"></a>
-</p>
-
