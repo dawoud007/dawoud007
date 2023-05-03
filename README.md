@@ -44,7 +44,8 @@ Turning imagination into reality 🚀</br> </p>
  <img src="https://github-readme-streak-stats.herokuapp.com?user=dawoud007&theme=transparent&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&mode=weekly&card_width=350&ring=E11EEB&fire=FFA721&stroke=0ED3EB&currStreakNum=0ED3EB&sideNums=0ED3EB&sideLabels=FFA721&dates=EB545400&currStreakLabel=0ED3EB" />
 
 </p>
-</p>
+
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dawoud007/dawoud007/blob/output/colorful4.svg" />
