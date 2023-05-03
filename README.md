@@ -22,10 +22,10 @@
 
 
 
-
+---
 <div></div>
 
-<div align="center">### :hammer_and_wrench: Languages and Tools :</div>
+
 <div align="center">
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="45" height="45"/>
